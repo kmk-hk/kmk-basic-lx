@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Hang & Patch",
+      "hasCanvas": false,
+      "bodyTextLen": 585,
+      "bodyTextHash": "41944245418cb00e2cd2d43a1117959467f41963d27c3f46761f4c59e691b7f7",
+      "bodyTextPrefix": "HANG NIGHT 中 EN STAGE LIGHTING WORKSHOP HANG & PATCH Hang lights",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Hang & Patch",
+      "hasCanvas": false,
+      "bodyTextLen": 585,
+      "bodyTextHash": "41944245418cb00e2cd2d43a1117959467f41963d27c3f46761f4c59e691b7f7",
+      "bodyTextPrefix": "HANG NIGHT 中 EN STAGE LIGHTING WORKSHOP HANG & PATCH Hang lights",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
